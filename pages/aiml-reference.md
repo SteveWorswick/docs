@@ -396,7 +396,7 @@ Specifies the date from which the interval should begin.
 Specifies the date at which the interval should end.
 
 `<style>`  
-Specifies the style in which the interval should be returned. Can contain `years`, `months`, `days`, or `seconds`.
+Specifies the style in which the interval should be returned. Can contain `years`, `months`, `days`, `hours`, `minutes` or `seconds`.
 
 #### Usage
 
